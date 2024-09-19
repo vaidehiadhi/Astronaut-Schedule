@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch AstronautScheduleApp",
+            "request": "launch",
+            "mainClass": "AstronautScheduleApp",
+            "console": "integratedTerminal"
+        }
+    ]
+}
+
