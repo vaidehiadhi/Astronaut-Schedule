@@ -17,10 +17,6 @@ The **Astronaut Daily Schedule Organizer** is a console-based Java application t
 - **Factory Pattern**: The `TaskFactory` is used to create task objects.
 - **Observer Pattern**: Notifies users if there are scheduling conflicts or updates.
 
-### Prerequisites
-- **Java 8 or higher**: Ensure that Java is installed and configured on your system.
-- **VS Code**: Recommended for easy project setup and running.
-- **Java Extension Pack**: Install the Java Extension Pack for VS Code if you’re using VS Code for development.
 
 ### Installation
 1. **Clone the repository**:
